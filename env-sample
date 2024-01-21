@@ -1,0 +1,5 @@
+port=465 
+smtp_server=smtp.gmail.com
+sender_email=myemail@gmail.com
+password=my-password
+
